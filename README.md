@@ -1,2 +1,3 @@
-# core-framework-demo
-Demo of the behavior of the Core Framwork
+# Core Framework Demo
+
+A demonstration of the behavior of the Core Framework built on top of Django.
