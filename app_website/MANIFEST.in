@@ -1,0 +1,2 @@
+recursive-include core_website/static *
+recursive-include core_website/templates *

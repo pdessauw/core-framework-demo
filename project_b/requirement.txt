@@ -1,0 +1,4 @@
+Django==1.8.15
+core_main
+core_website
+func_b
